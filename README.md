@@ -40,7 +40,7 @@ $ pkg update && pkg upgrade
 
 $ pkg install python
 
-$ pkg install rich
+$ pip install rich
 
 $ pip install bs4
 
@@ -50,13 +50,15 @@ $ pip install mechanize
 
 $ pip install stdiomask 
 
+$ pip install pysocks
+
 $ git clone https://github.com/CodeXz01/MetaUsa
 
-$cd MetaUsa
+$ cd MetaUsa
 
-$git pull
+$ git pull
 
-$python MetaUsa.py
+$ python MetaUsa.py
 
 
 
